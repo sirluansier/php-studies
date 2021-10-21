@@ -17,6 +17,6 @@ Here we have the very basics of PHP, I used the main features of the PHP languag
 
 
 
-![fuel-01](.\screenshots\fuel-01.png)
+![fuel-01](https://raw.github.com/sirluansier/php-studies/master/screenshots/fuel-01.png)
 
-![fuel-02](.\screenshots\fuel-02.png)
+![fuel-02](https://raw.github.com/sirluansier/php-studies/master/screenshots/fuel-02.png)
